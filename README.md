@@ -84,6 +84,13 @@
   <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017920/Github%20Readme/agroinnova2.png" alt="Agroinnova Web" />
 </p>
 
+<p align="center">
+  <br /><br />
+
+  [![Crypunks](https://github-readme-stats.vercel.app/api/pin/?username=leonarmed&repo=crypunks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/leonarmed/crypunks)<br/>
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693071682/Github%20Readme/Crypunks%20Desktop.png" alt="Crypunks Desktop" />
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693071682/Github%20Readme/Crypunks%20Mobile.png" alt="Crypunks Mobile" />
+</p>
 
 <p align="center">
   <br /><br />
