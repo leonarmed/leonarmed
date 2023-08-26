@@ -80,16 +80,16 @@
 <p align="center">
 
   [![Agroinnova](https://github-readme-stats.vercel.app/api/pin/?username=leonarmed&repo=agroinnova&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/leonarmed/agroinnova)<br/>
-  <img align="center" width="350" src="https://res.cloudinary.com/testgbc/image/upload/v1693017922/Github%20Readme/agroinnova.png" alt="Agroinnova Dashboard" />
-  <img align="center" width="350" src="https://res.cloudinary.com/testgbc/image/upload/v1693017920/Github%20Readme/agroinnova2.png" alt="Agroinnova Web" />
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017922/Github%20Readme/agroinnova.png" alt="Agroinnova Dashboard" />
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017920/Github%20Readme/agroinnova2.png" alt="Agroinnova Web" />
 </p>
 
 
 <p align="center">
   <br /><br />
-  
+
   [![Food Tech](https://github-readme-stats.vercel.app/api/pin/?username=leonarmed&repo=food-tech&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/leonarmed/food-tech)<br/>
-  <img align="center" width="350" src="https://res.cloudinary.com/testgbc/image/upload/v1693019565/Github%20Readme/foodtech.png" alt="WOW Home" />
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693019565/Github%20Readme/foodtech.png" alt="WOW Home" />
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@
   <br/>
 
   [![VR games catalog](https://github-readme-stats.vercel.app/api/pin/?username=leonarmed&repo=vr-games-catalog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/leonarmed/vr-games-catalog)<br/>
-  <img align="center" width="350" src="https://res.cloudinary.com/testgbc/image/upload/v1693017921/Github%20Readme/vr-catalog-game.png" alt="VR Catalog Games" />
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017921/Github%20Readme/vr-catalog-game.png" alt="VR Catalog Games" />
 </p>
 
 
@@ -106,14 +106,14 @@
   <br/>
 
   [![WOW](https://github-readme-stats.vercel.app/api/pin/?username=leonarmed&repo=wow-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/leonarmed/wow-app)<br/>
-  <img align="center" width="350" src="https://res.cloudinary.com/testgbc/image/upload/v1693019510/Github%20Readme/wow1.png" alt="WOW Home" />
-  <img align="center" width="350" src="https://res.cloudinary.com/testgbc/image/upload/v1693019510/Github%20Readme/wow2.png" alt="WOW Login" />
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693019510/Github%20Readme/wow1.png" alt="WOW Home" />
+  <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693019510/Github%20Readme/wow2.png" alt="WOW Login" />
 </p>
 
 
 <br/>
 <br/>
-<img align="center" width="350" src="https://res.cloudinary.com/testgbc/image/upload/v1693017922/Github%20Readme/mympoint.png" alt="M&M Point" />
+<img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017922/Github%20Readme/mympoint.png" alt="M&M Point" />
 
 <p align="left">
   <a href="https://github.com/leonarmed?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
