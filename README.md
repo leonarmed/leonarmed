@@ -77,7 +77,7 @@
 <br/>
 
 ## Some projects
-<p align="center">
+<p align="left">
   <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017922/Github%20Readme/agroinnova.png" alt="Agroinnova Dashboard" />
   <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017920/Github%20Readme/agroinnova2.png" alt="Agroinnova Web" />
 </p>
