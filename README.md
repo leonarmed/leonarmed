@@ -78,8 +78,6 @@
 
 ## Some projects
 <p align="center">
-
-  [![Agroinnova](https://github-readme-stats.vercel.app/api/pin/?username=leonarmed&repo=agroinnova&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/leonarmed/agroinnova)<br/>
   <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017922/Github%20Readme/agroinnova.png" alt="Agroinnova Dashboard" />
   <img align="center" width="400" src="https://res.cloudinary.com/testgbc/image/upload/v1693017920/Github%20Readme/agroinnova2.png" alt="Agroinnova Web" />
 </p>
